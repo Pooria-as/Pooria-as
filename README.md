@@ -15,8 +15,12 @@
   <li>Implementing monitoring and logging ensuring network availability and performance.</li>
 </ul>
 
-<h2>Docker & Containerization &#128118; 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="Docker" width="24" height="24" />
+<h2>Docker & Containerization  
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="64" height="64" fill="#1D63ED">
+  <path d="M129.5 312.4h42.8v42.8h-42.8zM178.8 312.4h42.8v42.8h-42.8zM129.5 267.8h42.8v42.8h-42.8zM178.8 267.8h42.8v42.8h-42.8zM238 312.4h42.8v42.8H238zM178.8 223.2h42.8v42.8h-42.8zM238 267.8h42.8v42.8H238zM297.3 267.8h42.8v42.8h-42.8zM356.6 267.8h42.8v42.8h-42.8zM356.6 223.2h42.8v42.8h-42.8zM297.3 223.2h42.8v42.8h-42.8zM238 223.2h42.8v42.8H238zM297.3 178.5h42.8v42.8h-42.8zM356.6 178.5h42.8v42.8h-42.8zM179 159.2h-74.5c-9.1 0-16.3 7.3-16.3 16.3v111.2c0 9.1 7.3 16.3 16.3 16.3h98.5v-69.7l-18-19.2z"/>
+  <path d="M457.6 190.4v-62.3c0-8.5-9.3-15.3-21.4-15.3H278.2v279.6h29.2v-36.5h26.7v-35.4H334v-60.5h-28.7v60.5h-25.8v36.1h-28.7V190h-21v-26.7h96.6v-30c0-4.9-4-9-8.9-9-4.9 0-8.9 4-8.9 9v30.1H216.8c-9.1 0-16.3 7.3-16.3 16.3v111.2c0 9.1 7.3 16.3 16.3 16.3h98.5v-69.7l-18-19.2h-41.3v-13.5h93.4v-35.4h-28.7V223h-25.8v36.1h-28.7v-71.9h-21v-26.7h96.6v-30c0-4.9-4-9-8.9-9-4.9 0-8.9 4-8.9 9v30.1z"/>
+</svg>
+
 </h2>
 <ul>
   <li>Building, deploying, and maintaining containerized applications using Docker.</li>
