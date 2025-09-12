@@ -1,26 +1,44 @@
 <h1>About Me</h1>
 
-<p>Hello! I'm an <strong>Oracle Linux System Administrator</strong> and <strong>Oracle APEX Developer</strong> with deep expertise in managing enterprise-grade Linux servers and developing robust web applications using Oracle APEX.</p>
+<p>Hello! I'm a skilled <strong>Linux System Administrator</strong> specializing in both <strong>Red Hat</strong> and <strong>Debian</strong> distributions. I manage robust, secure, and scalable environments leveraging modern web and networking technologies.</p>
 
-<h2>Oracle Linux System Administration</h2>
+<h2>Linux System Administration &#128187;</h2>
 <ul>
-  <li>Proficient in installing, configuring, and maintaining Oracle Linux environments for production workloads.</li>
-  <li>Expertise in system monitoring, security hardening, patch management, and performance tuning.</li>
-  <li>Managing backups, user permissions, and network configurations in Oracle Linux servers.</li>
+  <li>Installing, configuring, and maintaining Red Hat and Debian servers for enterprise-grade applications.</li>
+  <li>Managing system services, user permissions, patching, and security hardening across Linux platforms.</li>
+  <li>Performance tuning and automation to optimize server stability and uptime.</li>
 </ul>
 
-<h2>Oracle APEX Development</h2>
+<h2>Network Administration &#128246;</h2>
 <ul>
-  <li>Design and develop scalable web applications using Oracle Application Express (APEX).</li>
-  <li>Experience with PL/SQL, RESTful services, and integrating APEX with Oracle Database.</li>
-  <li>Implementing secure authentication, custom themes, and interactive reports for business needs.</li>
+  <li>Configuring reliable network interfaces, routing, and firewall policies for secure communications.</li>
+  <li>Implementing monitoring and logging ensuring network availability and performance.</li>
 </ul>
 
-<h2>Docker and Containerization</h2>
+<h2>Docker & Containerization &#128118;</h2>
 <ul>
-  <li>Running and managing containerized environments using Docker for application deployment and testing.</li>
-  <li>Creating Docker images and Docker Compose configurations for seamless development environments.</li>
-  <li>Leveraging containers to streamline DevOps workflows and improve application portability.</li>
+  <li>Building, deploying, and maintaining containerized applications using Docker.</li>
+  <li>Creating Docker Compose setups for multi-container services and persistent storage solutions.</li>
 </ul>
 
-<p>Feel free to explore my repositories to see my projects involving Oracle Linux setups, APEX apps, and Docker container examples.</p>
+<h2>VPN & Security Solutions &#128274;</h2>
+<ul>
+  <li>Deploying secure VPN solutions with OpenVPN and other protocols for safe remote access.</li>
+  <li>Defining firewall and access control policies to protect network and system resources.</li>
+</ul>
+
+<h2>Web & Application Servers &#127760;</h2>
+<ul>
+  <li>Administering Oracle WebLogic Server environments for enterprise middleware applications.</li>
+  <li>Managing NGINX web servers for high-performance HTTP and reverse proxy services.</li>
+  <li>Configuring load balancing, SSL termination, and web server security hardening.</li>
+</ul>
+
+<h2>Oracle APEX Development &#128187;</h2>
+<ul>
+  <li>Developing dynamic web applications using Oracle Application Express (APEX).</li>
+  <li>Integrating PL/SQL, RESTful APIs, and custom authentication for powerful application features.</li>
+  <li>Designing user-friendly dashboards, reports, and interfaces tailored to business needs.</li>
+</ul>
+
+<p>Explore my repositories for projects and scripts showcasing Linux administration, container orchestration, VPN setups, web server configs, and Oracle APEX apps.</p>
