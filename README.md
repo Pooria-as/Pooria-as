@@ -15,12 +15,13 @@
   <li>Implementing monitoring and logging ensuring network availability and performance.</li>
 </ul>
 
-<h2>Docker & Containerization &#128118;</h2>
+<h2>Docker & Containerization &#128118; 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/docker.svg" alt="Docker" width="24" height="24" />
+</h2>
 <ul>
   <li>Building, deploying, and maintaining containerized applications using Docker.</li>
   <li>Creating Docker Compose setups for multi-container services and persistent storage solutions.</li>
 </ul>
-
 <h2>VPN & Security Solutions &#128274;</h2>
 <ul>
   <li>Deploying secure VPN solutions such as <strong>Cisco AnyConnect</strong> and <strong>WireGuard</strong> and <strong>Open Vpn</strong> for encrypted and reliable remote access.</li>
