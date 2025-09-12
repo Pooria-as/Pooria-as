@@ -15,13 +15,12 @@
   <li>Implementing monitoring and logging ensuring network availability and performance.</li>
 </ul>
 
-<h2>Docker & Containerization  
-  (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</h2>
-<ul>
-  <li>Building, deploying, and maintaining containerized applications using Docker.</li>
-  <li>Creating Docker Compose setups for multi-container services and persistent storage solutions.</li>
-</ul>
+
+## Docker & Containerization ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png)
+- Building, deploying, and maintaining containerized applications using Docker.
+- Creating Docker Compose setups for multi-container services and persistent storage solutions.
+
+
 <h2>VPN & Security Solutions &#128274;</h2>
 <ul>
   <li>Deploying secure VPN solutions such as <strong>Cisco AnyConnect</strong> and <strong>WireGuard</strong> and <strong>Open Vpn</strong> for encrypted and reliable remote access.</li>
