@@ -23,8 +23,9 @@
 
 <h2>VPN & Security Solutions &#128274;</h2>
 <ul>
-  <li>Deploying secure VPN solutions with OpenVPN and other protocols for safe remote access.</li>
+  <li>Deploying secure VPN solutions such as <strong>Cisco AnyConnect</strong> and <strong>WireGuard</strong> for encrypted and reliable remote access.</li>
   <li>Defining firewall and access control policies to protect network and system resources.</li>
+  <li>Ensuring secure communication tunnels and user authentication for enhanced security.</li>
 </ul>
 
 <h2>Web & Application Servers &#127760;</h2>
