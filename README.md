@@ -1,6 +1,20 @@
 <h1>About Me</h1>
 
 <p>Hello! I'm a skilled <strong>Linux System Administrator</strong> specializing in both <strong>Red Hat</strong> and <strong>Debian</strong> distributions. I manage robust, secure, and scalable environments leveraging modern web and networking technologies.</p>
+<h2>Oracle APEX Development &#128187;</h2>
+<ul>
+  <li>Developing dynamic web applications using Oracle Application Express (APEX).</li>
+  <li>Integrating PL/SQL, RESTful APIs, and custom authentication for powerful application features.</li>
+  <li>Designing user-friendly dashboards, reports, and interfaces tailored to business needs.</li>
+</ul>
+
+<h2>Oracle Database & PL/SQL </h2>
+<ul>
+  <li>Install and monitor single-instance Oracle Databases, managing sessions for optimal performance.</li>
+  <li>Execute reliable backups using Data Pump (expdp/impdp) and recovery processes.
+</li>
+  <li>Develop efficient PL/SQL code: stored procedures, triggers, functions, and packages to automate tasks and optimize queries.</li>
+</ul>
 
 <h2>Linux System Administration &#128187;</h2>
 <ul>
@@ -36,20 +50,5 @@
   <li>Configuring load balancing, SSL termination, and web server security hardening.</li>
 </ul>
 
-<h2>Oracle APEX Development &#128187;</h2>
-<ul>
-  <li>Developing dynamic web applications using Oracle Application Express (APEX).</li>
-  <li>Integrating PL/SQL, RESTful APIs, and custom authentication for powerful application features.</li>
-  <li>Designing user-friendly dashboards, reports, and interfaces tailored to business needs.</li>
-</ul>
-
-<h2>Oracle Database & PL/SQL </h2>
-<ul>
-  <li>Install and monitor single-instance Oracle Databases, managing sessions for optimal performance.</li>
-  <li>Execute reliable backups using Data Pump (expdp/impdp) and recovery processes.
-</li>
-  
-  <li>Develop efficient PL/SQL code: stored procedures, triggers, functions, and packages to automate tasks and optimize queries.</li>
-</ul>
 
 <p>Explore my repositories for projects and scripts showcasing Linux administration, container orchestration, VPN setups, web server configs, PLSQL codes, and Oracle APEX apps.</p>
