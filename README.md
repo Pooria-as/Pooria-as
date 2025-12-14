@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-<p>Hello! I'm a skilled <strong>Linux System Administrator</strong> specializing in both <strong>Red Hat</strong> and <strong>Debian</strong> distributions. I manage robust, secure, and scalable environments leveraging modern web and networking technologies.</p>
+
 <h2>Oracle APEX Development &#128187;</h2>
 <ul>
   <li>Developing dynamic web applications using Oracle Application Express (APEX).</li>
