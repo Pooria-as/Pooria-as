@@ -43,4 +43,13 @@
   <li>Designing user-friendly dashboards, reports, and interfaces tailored to business needs.</li>
 </ul>
 
-<p>Explore my repositories for projects and scripts showcasing Linux administration, container orchestration, VPN setups, web server configs, and Oracle APEX apps.</p>
+<h2>Oracle Database & PL/SQL </h2>
+<ul>
+  <li>Install and monitor single-instance Oracle Databases, managing sessions for optimal performance.</li>
+  <li>Execute reliable backups using Data Pump (expdp/impdp) and recovery processes.
+</li>
+  
+  <li>Develop efficient PL/SQL code: stored procedures, triggers, functions, and packages to automate tasks and optimize queries.</li>
+</ul>
+
+<p>Explore my repositories for projects and scripts showcasing Linux administration, container orchestration, VPN setups, web server configs, PLSQL codes, and Oracle APEX apps.</p>
