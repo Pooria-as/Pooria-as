@@ -6,6 +6,8 @@
   <li>Developing dynamic web applications using Oracle Application Express (APEX).</li>
   <li>Integrating PL/SQL, RESTful APIs, and custom authentication for powerful application features.</li>
   <li>Designing user-friendly dashboards, reports, and interfaces tailored to business needs.</li>
+    <li>Upgrade APEX versions and apply security patches for latest features and vulnerability protection.</li>
+
 </ul>
 
 <h2>Oracle Database & PL/SQL </h2>
