@@ -7,6 +7,7 @@
   <li>Integrating PL/SQL, RESTful APIs, and custom authentication for powerful application features.</li>
   <li>Designing user-friendly dashboards, reports, and interfaces tailored to business needs.</li>
     <li>Upgrade APEX versions and apply security patches for latest features and vulnerability protection.</li>
+        <li>Call and consume external APIs using APEX_WEB_SERVICE for real-time data integration.</li>
 
 </ul>
 
